@@ -1,0 +1,2 @@
+# guru
+my git repo
